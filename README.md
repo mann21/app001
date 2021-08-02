@@ -1,0 +1,1 @@
+# Jira-ticker-manager-app
