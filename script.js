@@ -15,7 +15,7 @@ let colors = {
 //     alert("login please");
 //     let body=document.querySelector("body");
 //     body.remove()
-//     location.replace("index.html");
+//     location.replace("index.html")
 // }
 //intialisation step
 if (!localStorage.getItem("tasks")) {
