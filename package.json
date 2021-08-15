@@ -1,0 +1,8 @@
+{
+	"name":"app001",
+	"version":"0.01",
+	"description":"Jira App",
+	"scripts":{
+		"start":"node script.js"
+	}
+}
